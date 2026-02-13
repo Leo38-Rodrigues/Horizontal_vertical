@@ -1,5 +1,5 @@
 
-#Integração horizontal e vertical
+# Integração horizontal e vertical
 
 A integração vertical refere-se à conexão entre os diferentes níveis hierárquicos da indústria, desde o chão de fábrica até os sistemas corporativos de gestão. Ela permite que dados coletados por sensores e sistemas de controle sejam transmitidos para níveis superiores, como sistemas MES e ERP, promovendo alinhamento entre operação e estratégia. Com isso, decisões gerenciais passam a ser baseadas em informações reais do processo produtivo, aumentando a eficiência, a rastreabilidade e o controle das operações.
 
