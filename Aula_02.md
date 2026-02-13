@@ -1,4 +1,4 @@
-# Resumo — Integração Vertical e Horizontal nas Empresas
+# Resumo Aula 02 — Integração Vertical e Horizontal nas Empresas
 
 A aula apresentou os conceitos de integração vertical e horizontal nos contextos industrial e empresarial, destacando seu papel estratégico na coordenação da cadeia de valor e no alinhamento entre operação e gestão. A integração vertical, no ambiente industrial, conecta os diferentes níveis hierárquicos — do chão de fábrica aos sistemas de gestão — enquanto, no contexto empresarial, representa a decisão de controlar múltiplas etapas da cadeia produtiva para ampliar eficiência e controle.
 
